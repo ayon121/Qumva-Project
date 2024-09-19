@@ -1,4 +1,4 @@
-<h1>Excited to Share My Latest Project: Qumva.com </h1>
+<h1>Excited to Share My Latest Project For My Client: Qumva.com </h1>
 <hr>
 
 <img src="https://raw.githubusercontent.com/ayon121/Qumva-Project/refs/heads/main/qumva.com_%20(5).png" alt="main img">
@@ -15,7 +15,7 @@ Key features I developed <br>
 🛠️ Admin Dashboard <br>
 <br>
 <br>
-For this project, I used React, Tailwind, Framer Motion, Firebase on the frontend, and Node, Express, Nodemailer, MongoDB on the backend. The platform is already handling over 4,000 users per day! 🎉
+For this project, I used React, Tailwind, Framer Motion, Firebase on the frontend, and Node, Express, Nodemailer, MongoDB on the backend. The platform is already handling over 10,000 users per day! 🎉
 It’s been a challenging but rewarding experience, and I’m excited to see Qumva grow!
 Check it out here: 👉 Qumva.com
 <hr>
