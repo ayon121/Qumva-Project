@@ -18,3 +18,19 @@ Key features I developed <br>
 For this project, I used React, Tailwind, Framer Motion, Firebase on the frontend, and Node, Express, Nodemailer, MongoDB on the backend. The platform is already handling over 4,000 users per day! 🎉
 It’s been a challenging but rewarding experience, and I’m excited to see Qumva grow!
 Check it out here: 👉 Qumva.com
+<hr>
+
+<br>
+<br>
+<h1>Road Map Page</h1>
+<hr>
+<img src="https://raw.githubusercontent.com/ayon121/Qumva-Project/refs/heads/main/qumva.com_%20(7).png" alt="roadmap page">
+<br>
+<hr>
+<h1>Road Map Page</h1>
+<hr>
+<img src="https://raw.githubusercontent.com/ayon121/Qumva-Project/refs/heads/main/qumva.com_%20(7).png" alt="roadmap page">
+<br>
+
+
+
