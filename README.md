@@ -22,9 +22,9 @@ Check it out here: 👉 Qumva.com
 
 <br>
 <br>
-<h1>Road Map Page</h1>
+<h1>Home Page</h1>
 <hr>
-<img src="https://raw.githubusercontent.com/ayon121/Qumva-Project/refs/heads/main/qumva.com_%20(7).png" alt="roadmap page">
+<img src="https://raw.githubusercontent.com/ayon121/Qumva-Project/refs/heads/main/qumva.com_%20(4).png" alt="Home page">
 <br>
 <hr>
 <h1>Road Map Page</h1>
